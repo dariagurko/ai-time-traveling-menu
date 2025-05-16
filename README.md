@@ -28,4 +28,4 @@ cd ai-time-traveling-menu
 ```pip install -r requirements.txt```
 
 ### 3. Run the app:
-```streamlit run app.py```
+```streamlit run ai-time-travelling-menu.py```
