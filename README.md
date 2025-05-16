@@ -22,9 +22,10 @@ This interactive Streamlit app uses LLaMA 2 to generate historically accurate re
 ```bash
 git clone https://github.com/dariagurko/ai-time-traveling-menu.git
 cd ai-time-traveling-menu
+```
 
 ### 2. Install dependencies:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ### 3. Run the app:
-streamlit run app.py
+```streamlit run app.py```
