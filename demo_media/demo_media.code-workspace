@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "../stable_diffusion_pytorch"
+		}
+	],
+	"settings": {}
+}
