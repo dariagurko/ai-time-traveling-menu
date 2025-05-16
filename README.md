@@ -29,3 +29,6 @@ cd ai-time-traveling-menu
 
 ### 3. Run the app:
 ```streamlit run ai-time-travelling-menu.py```
+
+
+👩‍💻 Made by [Daria Gurko](https://github.com/dariagurko) 
